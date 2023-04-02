@@ -1,0 +1,29 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sun Apr  2 22:39:46 2023
+Invocation: foremost -t pdf -v -q -i /dev/sdb4 -o /home/noob/Downloads/Recovered1 
+Output directory: /home/noob/Downloads/Recovered1
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: /dev/sdb4
+Start: Sun Apr  2 22:39:46 2023
+Length: 79 GB (85878374400 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	21037888.pdf 	      63 KB 	 10771398656 	 
+1:	21070656.pdf 	     135 KB 	 10788175872 	 
+2:	21103424.pdf 	       1 MB 	 10804953088 	 
+3:	21136192.pdf 	      15 MB 	 10821730304 	 
+4:	21168960.pdf 	      15 MB 	 10838507520 	 
+5:	21201728.pdf 	      10 MB 	 10855284736 	 
+6:	21234496.pdf 	      10 MB 	 10872061952 	 
+Finish: Sun Apr  2 22:43:08 2023
+
+7 FILES EXTRACTED
+	
+pdf:= 7
+------------------------------------------------------------------
+
+Foremost finished at Sun Apr  2 22:43:08 2023
