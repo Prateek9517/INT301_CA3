@@ -1,0 +1,5 @@
+sudo foremost -t (file_format) -v -i -q (disk-name_to_recover) -o (absolute-path_location_to_save_recover_files)
+
+
+
+sudo foremost -t jpg -v -i -q /dev/sdb4 -o /home/noob/Desktop/Recoverfiles
