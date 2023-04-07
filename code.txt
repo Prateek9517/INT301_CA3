@@ -1,5 +1,11 @@
 sudo foremost -t (file_format) -v -i -q (disk-name_to_recover) -o (absolute-path_location_to_save_recover_files)
 
+sudo recoverjpeg(disk_name_to_recover) -o ((absolute-path_location_to_save_recover_files) 
+#from this we can only recover only images...
+
+sudo recoverjpeg /dev/sdb4 -o /home/noob/Desktop/Recoverfiles
+
 
 
 sudo foremost -t all -v -i -q /dev/sdb4 -o /home/noob/Desktop/Recoverfiles
+#from this we can recover any specific files ( i.e., .jpeg, .png, .cpp, .java, .pdf etc.) or all the deleted files at a same time.....
