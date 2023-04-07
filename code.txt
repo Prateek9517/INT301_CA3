@@ -2,4 +2,4 @@ sudo foremost -t (file_format) -v -i -q (disk-name_to_recover) -o (absolute-path
 
 
 
-sudo foremost -t pdf jpg png -v -i -q /dev/sdb4 -o /home/noob/Desktop/Recoverfiles
+sudo foremost -t all -v -i -q /dev/sdb4 -o /home/noob/Desktop/Recoverfiles
