@@ -1,0 +1,21 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Apr  8 20:08:35 2023
+Invocation: foremost -t all -v -q -i /dev/sda5 -o /home/noob/Desktop/Recoverfiles1 
+Output directory: /home/noob/Desktop/Recoverfiles1
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: /dev/sda5
+Start: Sat Apr  8 20:08:35 2023
+Length: 975 MB (1022361600 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+Finish: Sat Apr  8 20:08:42 2023
+
+0 FILES EXTRACTED
+	
+------------------------------------------------------------------
+
+Foremost finished at Sat Apr  8 20:08:42 2023
